@@ -1,0 +1,1 @@
+str_unicode_decode="我们".decode()
